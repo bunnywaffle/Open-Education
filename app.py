@@ -2,7 +2,7 @@ import gradio as gr
 from openai import OpenAI
 
 # Set up the OpenAI API client
-client = OpenAI(base_url="http://localhost:5001/v1", api_key="lm-studio")
+client = OpenAI(base_url="http://localhost:5001/v1", api_key="none")
 
 
 def predict(message, history):
