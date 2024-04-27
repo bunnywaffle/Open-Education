@@ -3,7 +3,7 @@ AI based Open Education Platform
 
 The Problem with Traditional Education
 
-Apart from society, human teachers are the most worst link in any education system.
+Apart from society and exams, human teachers are the most worst link in any education system.
 
 The traditional education system has been plagued by a fundamental flaw: human teachers. Human teachers are inherently limited by their own biases, emotions, and capabilities. They can become frustrated, tired, or even bored, affecting the quality of education they provide. Moreover, they may not be able to adapt to individual learning styles, forcing students to conform to a one-size-fits-all approach.
 
