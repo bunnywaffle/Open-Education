@@ -1,6 +1,9 @@
 # Open-Education
 AI based Open Education Platform
 
+![a-heartwarming-scene-of-a-gentle-ai-teacher-intera-9aSWlN9CRVWAsrVxWisHLw-lEkrJDtWTHatd43Zw8Ny6Q](https://github.com/bunnywaffle/Open-Education/assets/100540808/bcda7643-96ff-403b-89a8-0e8294123779)
+
+
 The Problem with Traditional Education
 
 Apart from society and exams, human teachers are the most worst link in any education system.
