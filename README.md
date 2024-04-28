@@ -1,5 +1,5 @@
 # Open-Education
-AI based Open Education Platform
+Gradio based Open AI Education Platform
 
 ![a-heartwarming-scene-of-a-gentle-ai-teacher-intera-9aSWlN9CRVWAsrVxWisHLw-lEkrJDtWTHatd43Zw8Ny6Q](https://github.com/bunnywaffle/Open-Education/assets/100540808/bcda7643-96ff-403b-89a8-0e8294123779)
 
