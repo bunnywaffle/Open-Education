@@ -65,6 +65,8 @@ gr.ChatInterface(
               "Can you explain the concept of infinity in calculus?",
               "What's the difference between a hypothesis and a theory in science?",
               "How do you evaluate the credibility of a source in research?"
+              "Can you explain the process of speciation, and how does it occur?"
+              "What is the current understanding of the origin of life on Earth?"
               ],  # Provide some example inputs
     cache_examples=False,  # Don't cache the example inputs
     undo_btn="Delete Previous",  # Customize the undo button
