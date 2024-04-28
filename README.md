@@ -35,12 +35,12 @@ To run Open Education, follow these simple steps:
 
 * Step 1: Install Gradio
 
-* Open your terminal, sweetheart, and install Gradio using pip:
+  Open your terminal, and install Gradio using pip:
 
 ```pip install gradio```
 * Step 2: Run the App
 
-* Next, navigate to the project directory and run the app.py file:
+  Next, navigate to the project directory and run the app.py file:
 
 ```python app.py```
 * Step 3: Start the LM Studio API Server
