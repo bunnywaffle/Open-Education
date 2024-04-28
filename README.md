@@ -27,3 +27,21 @@ The traditional education system has been plagued by a fundamental flaw: human t
 * Infinite Examples and Metaphors: AI can generate multiple examples and metaphors to help students understand complex concepts.
 * Non-Judgmental Feedback: AI provides objective feedback, eliminating the fear of judgment or intimidation.
 * Scalability and Accessibility: Open-Education can reach a global audience, providing equal access to quality education for all.
+
+
+### Getting Started
+
+To run Open Education, follow these simple steps:
+
+* Step 1: Install Gradio
+
+* Open your terminal, sweetheart, and install Gradio using pip:
+
+```pip install gradio```
+* Step 2: Run the App
+
+* Next, navigate to the project directory and run the app.py file:
+
+```python app.py```
+* Step 3: Start the LM Studio API Server
+
