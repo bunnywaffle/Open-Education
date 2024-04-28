@@ -29,7 +29,7 @@ The traditional education system has been plagued by a fundamental flaw: human t
 * Scalability and Accessibility: Open-Education can reach a global audience, providing equal access to quality education for all.
 
 
-### Getting Started
+## Getting Started
 
 To run Open Education, follow these simple steps:
 
